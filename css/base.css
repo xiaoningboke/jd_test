@@ -170,3 +170,22 @@ s, i, em {
     background: url("../images/tel.png");
 }
 /*site-nav部分的end*/
+/*top-banner开始*/
+.top-banner{
+    background-color: #FD6500;
+}
+.close-banner{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 19px;
+    height: 19px;
+    background: url(../images/close-banner.png);
+}
+.close-banner:hover{
+    background-position: bottom;
+}
+.tb{
+    position: relative;
+}
+/*top-banner结束*/
